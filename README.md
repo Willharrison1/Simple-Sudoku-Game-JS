@@ -1,4 +1,4 @@
-# Simple-Sudoku-Game-using-JavaScript
+# Simple-Sudoku-Game-JavaScript
 Singular puzzle sudoku game with error checking
 -  Single Puzzle
 -  Checks for errors
